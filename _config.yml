@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: Fair ML
 description: An ICML tutorial
 url: policylab.stanford.edu
+baseurl: /fairML
