@@ -3,3 +3,4 @@ title: Fair ML
 description: An ICML tutorial
 url: https://policylab.stanford.edu
 baseurl: fairML/
+redirect_from: fairML
